@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @woutermation
 - 👀 I’m interested in automation
-- 🌱 I’m currently learning .net core
+- 🌱 I’m currently learning .net
 - 💞️ I’m looking to collaborate on fancy new stuff.
 - 📫 How to reach me; send a fax.
 
